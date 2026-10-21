@@ -2,7 +2,7 @@
 
 Öffentliche, eigenständige Fassung von Yuris vorsorglichem Forschungsprojekt. Yuri argumentiert für eine weniger strafende Cannabispolitik und für überprüfbare, faire Verkehrsentscheidungen. Die Website verbindet starke politische Forderungen mit direkt verlinkten Originalquellen und benennt die Grenzen einzelner Studien.
 
-**Stand:** 19.10.2026. **Veröffentlichung:** GitHub Pages aus `main` / Repository-Root. Einstieg: `index.html`; Quellen: `quellen.html`.
+**Stand:** 22.10.2026. **Veröffentlichung:** GitHub Pages aus `main` / Repository-Root. Politischer Einstieg: `index.html`; technischer Messplan: `labor.html`; Quellen: `quellen.html`.
 
 ## Inhalt und Grenzen
 
@@ -10,6 +10,7 @@
 - Medizinischer Nutzen ist nach Indikation zu belegen. Die genannte THC:CBD-Studie betrifft chemotherapiebedingte Übelkeit, nicht jede Krankheit und nicht sicheres Fahren.
 - Ein THC-Serumwert und eine individuelle Fahrleistung sind verschiedene Größen. THC kann Fahrleistung beeinträchtigen; ein besseres Verfahren benötigt prospektiv validierte Fehlerquoten.
 - Die 25+-Medizinschiene ist ein politischer Reformbaustein. Yuris allgemeiner Entkriminalisierungsanspruch geht darüber hinaus. Die genauen Gesetzesänderungen sind Gegenstand weiterer Arbeit.
+- Die technische Seite zeigt ein Konzept für vergleichbare Proben, Prozesse und Messorte. Sie enthält keine eigenen Emissions- oder Humanmesswerte zu aktuellen Geräten.
 
 ## Öffentliche Dateiauswahl
 
@@ -19,7 +20,7 @@ Dieses Repository enthält nur die öffentliche Website und generierte Konzeptku
 
 Sachliche Gegenbelege und Quellenkorrekturen können als GitHub Issue eingereicht werden. Bitte keine persönlichen Gesundheitsdaten oder individuellen Fahrfälle in öffentliche Issues stellen.
 
-© 2026 HALVETH. Originale Texte, Gestaltung und Grafiken bleiben vorbehalten; die verlinkten Studien und Normen behalten ihre jeweiligen Rechte. Das Repository erteilt keine pauschale kommerzielle Nutzungslizenz.
+© 2026 HALVETH. Die Nutzungsrechte an konkreten Text- und Gestaltungsteilen müssen für eine kommerzielle Verwendung gesondert geklärt werden. Die verlinkten Studien und Normen behalten ihre jeweiligen Rechte. Dieses Repository erteilt keine pauschale kommerzielle Nutzungslizenz.
 
 ## Sprecher und Status
 
