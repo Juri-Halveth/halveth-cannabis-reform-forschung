@@ -1,4 +1,9 @@
-# HALVETH · Pro Cannabisreform
+# Cannabisreform – Quellen, Forschung und faire Verkehrsregeln
+
+Öffentliches Forschungs- und Reformprojekt mit verlinkten Studien und getrennt beschriebenen politischen Vorschlägen.
+
+[**Projekt öffnen →**](https://juri-halveth.github.io/halveth-cannabis-reform-forschung/) · [Arbeitsproben](https://juri-halveth.github.io/koennen/) · [Portfolio](https://juri-halveth.github.io/)
+
 
 Öffentliche, eigenständige Fassung von Yuris vorsorglichem Forschungsprojekt. Yuri argumentiert für eine weniger strafende Cannabispolitik und für überprüfbare, faire Verkehrsentscheidungen. Die Website verbindet starke politische Forderungen mit direkt verlinkten Originalquellen und benennt die Grenzen einzelner Studien.
 
@@ -25,4 +30,3 @@ Sachliche Gegenbelege und Quellenkorrekturen können als GitHub Issue eingereich
 ## Sprecher und Status
 
 Yuri spricht auf der Website als Einzelperson. Es gibt kein bestehendes Verfahren, keinen Bescheid und keine beauftragte Rechtsvertretung. Die Arbeit entwickelt präventiv Forschungsfragen, Reformtexte und mögliche Kooperationen.
-
