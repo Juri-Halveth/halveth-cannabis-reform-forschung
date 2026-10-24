@@ -8,3 +8,28 @@
 
 /* Standalone technical research page */
 .lab-page h1,.lab-page h2{font-family:var(--display);letter-spacing:-.045em;line-height:1.04}.lab-page h2{font-size:clamp(2.5rem,5vw,5rem);font-weight:600;margin:22px 0 28px}.lab-hero{padding:105px 0 115px;background:radial-gradient(circle at 85% 45%,#225746 0%,transparent 45%)}.lab-hero h1{font-size:clamp(3.4rem,8vw,8rem);margin:28px 0}.lab-hero h1 em{color:var(--orange)}.lab-hero p{font-size:1.25rem;max-width:790px;color:var(--muted)}.lab-hero .button{margin-top:24px}.lab-band{background:#e8e1cf;color:var(--bg)}.lab-intro{display:grid;grid-template-columns:repeat(3,1fr)}.lab-intro>div{padding:32px;border-right:1px solid #acb3a8}.lab-intro>div:last-child{border-right:0}.lab-intro span,.lab-device-grid span{font-weight:900;color:#b26037;letter-spacing:.16em;font-size:.7rem}.lab-intro h2{font-size:1.7rem;margin:8px 0}.lab-intro p{margin:0;color:#31504c}.lab-flow{display:grid;grid-template-columns:1fr 1.55fr 1.2fr;gap:20px;align-items:stretch;margin:42px 0}.lab-flow>div,.lab-split article{padding:25px;border:1px solid #668d80;background:#12353a}.lab-flow small,.lab-flow strong,.lab-flow span,.lab-flow b{display:block}.lab-flow small{color:var(--orange);font-size:.69rem;font-weight:900;letter-spacing:.13em}.lab-flow strong{font-family:var(--display);font-size:1.65rem;line-height:1.1;margin:14px 0}.lab-flow span{color:var(--muted);font-size:.83rem}.lab-split{display:grid;gap:12px}.lab-split article:first-child{border-left:5px solid var(--mint)}.lab-split article:last-child{border-left:5px solid var(--orange)}.lab-split b{margin-top:12px;color:var(--cream);font-size:.81rem}.lab-out{border-top:4px solid var(--mint)!important}.lab-caveat{max-width:920px;padding:18px 22px;border-left:4px solid var(--orange);background:rgba(255,255,255,.055);color:var(--muted)}.lab-device-section{background:#0d292e}.lab-device-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.lab-device-grid article{padding:30px;background:#14383d;border-top:3px solid var(--mint)}.lab-device-grid h3{font-family:var(--display);font-size:1.7rem;line-height:1.13}.lab-device-grid p{color:var(--muted);font-size:.95rem}.lab-device-grid a{font-size:.87rem}.lab-evidence{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}.lab-evidence p{padding:25px;border:1px solid var(--line);color:var(--muted)}.lab-evidence b{color:var(--cream)}@media(max-width:950px){.lab-flow,.lab-device-grid{grid-template-columns:1fr}.lab-split{grid-template-columns:repeat(2,1fr)}}@media(max-width:650px){.lab-hero{padding:70px 0}.lab-intro,.lab-split,.lab-evidence{grid-template-columns:1fr}.lab-intro>div{border-right:0;border-bottom:1px solid #acb3a8}}
+/* Keep the process diagrams within narrow viewports without clipping content. */
+.process-visual > *, .route, .lab-flow > *, .lab-split > *, .fact, .source-list article, .policy-grid article, .law-grid > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+h1, h2, h3, .law-grid strong { overflow-wrap: anywhere; hyphens: auto; }
+@media (max-width: 950px) {
+  .topbar { height: auto; min-height: 72px; flex-wrap: wrap; padding-top: 12px; padding-bottom: 12px; }
+  .topbar nav { flex-wrap: wrap; }
+}
+@media (max-width: 650px) {
+  .brand { white-space: normal; }
+  .topbar nav { gap: 4px 16px; }
+  .topbar nav a { display: inline-flex; align-items: center; min-height: 44px; }
+  .fork { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 380px) {
+  .fork { grid-template-columns: minmax(0, 1fr); }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .button { transition: none; }
+  .button:hover { transform: none; }
+}
