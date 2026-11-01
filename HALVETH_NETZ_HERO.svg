@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">HALVETH / NETZ · QUELLEN &amp; REFORM</title>
+  <desc id="desc">Quellen und Reform: getrennte Dokumentkarten und Messachse</desc>
+  <defs>
+    <linearGradient id="space" x2="1" y2="1">
+      <stop stop-color="#080e1b"/>
+      <stop offset="1" stop-color="#182638"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#abc3dd" stroke-opacity=".075"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#space)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <path d="M0 0h8v300H0" fill="#a5dc8e"/>
+  <path d="M815 35v230" stroke="#a5dc8e" stroke-opacity=".3"/>
+  <text x="68" y="64" fill="#a5dc8e" font-size="23" font-weight="700" letter-spacing="4" font-family="Segoe UI,Arial,sans-serif">HALVETH / NETZ</text>
+  <text x="69" y="113" fill="#aec8d8" font-size="18" letter-spacing="3" font-family="Segoe UI,Arial,sans-serif">GESELLSCHAFTLICHE QUELLEN</text>
+  <text x="66" y="190" fill="#f7fbff" font-size="51" font-weight="750" font-family="Segoe UI,Arial,sans-serif">QUELLEN &amp; REFORM</text>
+  <text x="69" y="232" fill="#bfd1e2" font-size="22" font-family="Segoe UI,Arial,sans-serif">Studien · Messplan · politische Vorschläge</text>
+  <path d="M68 257h322" stroke="#a5dc8e" stroke-width="3" stroke-linecap="round"/>
+
+          <rect x="850" y="78" width="113" height="151" rx="9" fill="#23342b" stroke="#a5dc8e" stroke-width="2"/>
+          <rect x="987" y="78" width="113" height="151" rx="9" fill="#23342b" stroke="#a5dc8e" stroke-width="2"/>
+          <path d="M869 111h76m-76 24h62m-62 24h69m-62 24h48m82-72h76m-76 24h62m-62 24h69" stroke="#a5dc8e" stroke-width="3" opacity=".7"/>
+          <path d="M865 247h224m-210-8v16m50-16v16m50-16v16m50-16v16m50-16v16" stroke="#d9f6d1" stroke-width="2"/>
+          <circle cx="987" cy="180" r="13" fill="#a5dc8e"/>
+
+</svg>
