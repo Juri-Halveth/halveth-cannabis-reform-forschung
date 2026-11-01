@@ -1,5 +1,9 @@
 # Cannabisreform – Quellen, Forschung und faire Verkehrsregeln
 
+![HALVETH / NETZ – Quellen und Reform: getrennte Dokumentkarten und Messachse](HALVETH_NETZ_HERO.svg)
+
+**HALVETH / NETZ · Gesellschaftliche Quellen.** [Starship Lab öffnen](https://juri-halveth.github.io/universum/) und dort die Projektkarte „QUELLEN & REFORM“ auswählen.
+
 Öffentliches Forschungs- und Reformprojekt mit verlinkten Studien und getrennt beschriebenen politischen Vorschlägen.
 
 [**Projekt öffnen →**](https://juri-halveth.github.io/halveth-cannabis-reform-forschung/) · [Arbeitsproben](https://juri-halveth.github.io/koennen/) · [Portfolio](https://juri-halveth.github.io/)
