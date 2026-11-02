@@ -1,15 +1,12 @@
 # Cannabisreform – Quellen, Forschung und faire Verkehrsregeln
 
+Öffentliche, eigenständige Fassung von Juris vorsorglichem Forschungsprojekt. Die Website verbindet politische Reformvorschläge mit verlinkten Originalquellen und benennt die Grenzen einzelner Studien. Sie enthält keine eigenen Humanmessungen oder individuelle Rechts- und Medizinberatung.
+
+[**Quellen und Vorschläge direkt öffnen**](https://juri-halveth.github.io/halveth-cannabis-reform-forschung/) · [Technischen Messplan ansehen](https://juri-halveth.github.io/halveth-cannabis-reform-forschung/labor.html) · [Quellcode](https://github.com/Juri-Halveth/halveth-cannabis-reform-forschung/tree/main)
+
 ![HALVETH / NETZ – Quellen und Reform: getrennte Dokumentkarten und Messachse](HALVETH_NETZ_HERO.svg)
 
-**HALVETH / NETZ · Gesellschaftliche Quellen.** [Starship Lab öffnen](https://juri-halveth.github.io/universum/) und dort die Projektkarte „QUELLEN & REFORM“ auswählen.
-
-Öffentliches Forschungs- und Reformprojekt mit verlinkten Studien und getrennt beschriebenen politischen Vorschlägen.
-
-[**Projekt öffnen →**](https://juri-halveth.github.io/halveth-cannabis-reform-forschung/) · [Arbeitsproben](https://juri-halveth.github.io/koennen/) · [Portfolio](https://juri-halveth.github.io/)
-
-
-Öffentliche, eigenständige Fassung von Juris vorsorglichem Forschungsprojekt. Juri argumentiert für eine weniger strafende Cannabispolitik und für überprüfbare, faire Verkehrsentscheidungen. Die Website verbindet starke politische Forderungen mit direkt verlinkten Originalquellen und benennt die Grenzen einzelner Studien.
+[Starship Lab als optionaler HALVETH-Überblick](https://juri-halveth.github.io/universum/)
 
 **Stand:** 22.10.2026. **Veröffentlichung:** GitHub Pages aus `main` / Repository-Root. Politischer Einstieg: `index.html`; technischer Messplan: `labor.html`; Quellen: `quellen.html`.
 
